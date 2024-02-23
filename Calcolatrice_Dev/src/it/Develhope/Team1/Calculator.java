@@ -76,8 +76,6 @@ public class Calculator {
         return isPresent;
     }
 
-
-
     public static int[] estraiIndx(String[] args) {
         int startMult = 0;
         int endMult = 0;
